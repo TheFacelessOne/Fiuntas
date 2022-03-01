@@ -1,0 +1,17 @@
+{
+  "name": "fiuntas",
+  "version": "0.0.1",
+  "description": "A system for voting on command usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "THE_FACELESS_ONE",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.27.3",
+    "discord.js": "^13.6.0"
+  }
+}

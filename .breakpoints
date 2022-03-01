@@ -1,0 +1,24 @@
+{
+  "files": {
+    "events/ready.js": [
+      {
+        "id": "6b3f8656-15e7-44bd-a732-26b981dafc23",
+        "line": 1,
+        "version": 128,
+        "index": 0
+      },
+      {
+        "id": "634224cf-5973-4605-8661-1548b49bbf7e",
+        "line": 9,
+        "version": 128,
+        "index": 235
+      },
+      {
+        "id": "6a7bfccc-0dba-4781-8598-ddaa5a8296e5",
+        "line": 13,
+        "version": 128,
+        "index": 398
+      }
+    ]
+  }
+}

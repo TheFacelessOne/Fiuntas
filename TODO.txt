@@ -1,0 +1,1 @@
+threshold setting for voting - once it hits the positive or negative threshold, voting ends
